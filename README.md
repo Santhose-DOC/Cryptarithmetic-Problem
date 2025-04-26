@@ -114,5 +114,8 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
+![image](https://github.com/user-attachments/assets/99434807-113b-445f-bc1b-8710c265c214)
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
