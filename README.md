@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: santhose Arockiaraj J               </h3>
+<h3>Name: Santhose Arockiaraj J               </h3>
 <h3>Register Number: 212224230248       </h3>
 <H3>Aim:</H3>
 <p>
